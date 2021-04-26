@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">App Constraint Layout</string>
-    <string name="contentDescription">Um castelo é projetado da tela de um iPhone que se encontra sobre uma mesa</string>
+    <string name="contentDescription">bla bla bla</string>
     <string name="tituloNoticia">Aprenda sobre edição de imagens</string>
     <string name="dataNoticia">26/05/2021</string>
     <string name="conteudoNoticia">"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta aliquet felis quis tristique. Praesent condimentum posuere nisi elementum accumsan. Ut venenatis orci sed sem semper convallis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur sit amet augue purus. In velit elit, pretium non gravida vitae, mattis et arcu. Integer aliquam ullamcorper nibh, et laoreet erat vestibulum in. Phasellus eu nulla in metus aliquam elementum nec pellentesque mauris. Mauris ac bibendum enim, id fringilla risus. Suspendisse potenti."</string>
